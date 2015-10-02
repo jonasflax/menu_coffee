@@ -1,0 +1,25 @@
+.navs {
+  width: 100%;
+  float: left;
+  background-color: #d3d3d3;
+  margin: 0 0 2em 0;
+	padding: 1em;
+	list-style: none;
+}
+
+nav li a {
+  float: right;
+  margin-right: 4em;
+  text-decoration: none;
+}
+
+h1 a {
+  width: 100%;
+  float: left;
+  background-color: #d3d3d3;
+  margin: 0;
+	padding: 1em;
+	list-style: none;
+  border-bottom: 1px solid black;
+  text-decoration: none;
+}
