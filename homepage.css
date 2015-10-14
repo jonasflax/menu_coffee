@@ -120,12 +120,6 @@ h4 {
 }
 
 body {
-<<<<<<< HEAD
     background-image: url("IMG/coffee_beans_trans.jpg");
     background-size: 100%;
-=======
-    background-image: url("IMG/coffee_beans.jpeg");
-    background-size: cover;
->>>>>>> e0b2e80a8aaac43607130caeb980f5b7409ccdbd
-    /*background-color: gray;*/
 }
