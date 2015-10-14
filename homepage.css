@@ -6,11 +6,20 @@
   padding-right: 5%%;
 }
 
+h1 {
+  font-family: ‘quicksand’, sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  color: white;
+}
+
 h3 {
   float: left;
   /*background-color: white;*/
   margin: 0;
   padding-left: 5%;
+  font-family: ‘Quicksand’, sans-serif;
+  font-weight: 700;
   font-size: 24px;
 }
 
@@ -64,9 +73,9 @@ h2 {
   /*display: inline;*/
 }
 
-ul li {
+.typeboxes li {
   margin: 10%;
-  padding: 0;
+  padding-top: 10%;
 }
 
 .footers {
@@ -74,7 +83,8 @@ ul li {
   width: 100%;
   background-color: white;
   margin: 0;
-	padding: 2%;
+  margin-right:auto;
+	padding: 1.5%;
   position: fixed;
   bottom: 0;
   float: right;
@@ -95,7 +105,7 @@ h4 {
 }
 
 body {
-    background-image: url("IMG/coffee_beans.png");
-    background-size: cover;
+    background-image: url("IMG/coffee_beans_trans.jpg");
+    background-size: 100%;
     /*background-color: gray;*/
 }
